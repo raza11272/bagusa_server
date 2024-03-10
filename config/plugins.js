@@ -47,7 +47,7 @@ module.exports = ({ env }) => ({
        
       },
       settings: {
-        defaultFrom: "info@bagusaonline.com",
+        defaultFrom: "corp.waveline@gmail.com",
         // defaultFromName: "",
        
       },
