@@ -47,7 +47,7 @@ module.exports = ({ env }) => ({
        
       },
       settings: {
-        defaultFrom: "info@wavelinetrade.com",
+        defaultFrom: env("MAILJET_SENDER_MAIL"),
         // defaultFromName: "",
        
       },
