@@ -47,7 +47,7 @@ module.exports = ({ env }) => ({
        
       },
       settings: {
-        defaultFrom: "corp.waveline@gmail.com",
+        defaultFrom: "info@wavelinetrade.com",
         // defaultFromName: "",
        
       },
